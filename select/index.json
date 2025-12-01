@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "あなただけ見つめてる (2019 Remastered)",
+  "base_artist": "大黒摩季",
+  "createdAt": "2025-12-01T13:48:30.815755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる (2019 Remastered)",
+      "artist": "Maki Ohguro",
+      "has_synced": true,
+      "path": "select/01_あなただけ見つめてる_(2019_Remastered)_Maki_Ohguro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる (2019 Remastered)",
+      "artist": "大黒摩季",
+      "has_synced": true,
+      "path": "select/02_あなただけ見つめてる_(2019_Remastered)_大黒摩季.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "Maki Ohguro",
+      "has_synced": true,
+      "path": "select/03_あなただけ見つめてる_Maki_Ohguro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "Maki Ohguro",
+      "has_synced": false,
+      "path": "select/04_あなただけ見つめてる_Maki_Ohguro.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒摩季",
+      "has_synced": true,
+      "path": "select/05_あなただけ見つめてる_大黒摩季.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒摩季",
+      "has_synced": true,
+      "path": "select/06_あなただけ見つめてる_大黒摩季.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黑摩季",
+      "has_synced": true,
+      "path": "select/07_あなただけ見つめてる_大黑摩季.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる(オリジナル・カラオケ)",
+      "artist": "大黑摩季",
+      "has_synced": true,
+      "path": "select/08_あなただけ見つめてる(オリジナル・カラオケ)_大黑摩季.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/09_あなただけ見つめてる_Various.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒摩季 (Oguro Maki)",
+      "has_synced": true,
+      "path": "select/10_あなただけ見つめてる_大黒摩季_(Oguro_Maki).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒摩季",
+      "has_synced": false,
+      "path": "select/11_あなただけ見つめてる_大黒摩季.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる (Original Karaoke)",
+      "artist": "大黒摩季",
+      "has_synced": true,
+      "path": "select/12_あなただけ見つめてる_(Original_Karaoke)_大黒摩季.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒摩季",
+      "has_synced": false,
+      "path": "select/13_あなただけ見つめてる_大黒摩季.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒摩季",
+      "has_synced": true,
+      "path": "select/14_あなただけ見つめてる_大黒摩季.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒 摩季",
+      "has_synced": false,
+      "path": "select/pl_01_あなただけ見つめてる_大黒_摩季.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒 摩季",
+      "has_synced": false,
+      "path": "select/pl_02_あなただけ見つめてる_大黒_摩季.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒 摩季",
+      "has_synced": false,
+      "path": "select/pl_03_あなただけ見つめてる_大黒_摩季.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "あなただけ見つめてる",
+      "artist": "大黒 摩季",
+      "has_synced": false,
+      "path": "select/pl_04_あなただけ見つめてる_大黒_摩季.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "あなただけ見つめてる [Live]",
+      "artist": "大黒 摩季",
+      "has_synced": false,
+      "path": "select/pl_05_あなただけ見つめてる_[Live]_大黒_摩季.txt"
+    }
+  ]
+}
